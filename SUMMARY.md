@@ -5,6 +5,7 @@
 ## Documents
 
 * [FAQs](documents/faqs.md)
+* [Terms & Policies](documents/terms-and-policies.md)
 
 ## blogs
 
