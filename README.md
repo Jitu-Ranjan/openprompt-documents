@@ -25,4 +25,4 @@ At OpenPrompt, we’re revolutionizing the way you interact with AI. With over a
 
 Explore the world of AI prompting with OpenPrompt. Sign up now to experience the future of multilingual, fine-tuned AI interactions.&#x20;
 
-Sign in to our slack
+Sign in to our [slack](https://openprompt.slack.com/archives/C087D7XKHMW)
